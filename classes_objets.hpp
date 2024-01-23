@@ -1,6 +1,8 @@
 #pragma once
 #include <vector>
 #include <iostream>
+#include "classes.hpp"
+#include "classes_perso.hpp"
 
 class Objet : public Element {
     int duree_vie ;
